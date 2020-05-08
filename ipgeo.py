@@ -1,7 +1,9 @@
 #python
 #simple ip Geolocation tool using api
 #3tiwy
+import os
 import requests
+os.system(pip3 install requests)
 class c:
     HE = '\033[6m'
     A = '\033[1m'
